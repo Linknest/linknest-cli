@@ -31,7 +31,7 @@ carrier.carry(process.stdin, function(line) {
     log(chalk.magenta.bold(collection.url+'\n'));
 
     Object.keys(collectionLinks).forEach(function(key) {
-      log(chalk.green(key+'. ', collectionLinks[key].title));
+      log(chalk.green(collectionLinks[key].title));
       log(chalk.cyan(collectionLinks[key].linkurl));
     });
 
