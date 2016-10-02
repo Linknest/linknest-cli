@@ -1,7 +1,7 @@
 {
   "name": "linknest-cli",
   "version": "0.1.0",
-  "description": "",
+  "description": "Get links from https://linknest.cc",
   "main": "index.js",
   "keywords": [
     "linknest, bookmarks"
@@ -10,7 +10,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "carrier": "^0.3.0",
