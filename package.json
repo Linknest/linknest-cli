@@ -1,6 +1,6 @@
 {
   "name": "linknest-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get links from https://linknest.cc",
   "main": "index.js",
   "keywords": [
