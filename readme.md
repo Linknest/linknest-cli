@@ -1,8 +1,8 @@
 # Linknest cli
 
-Get collection links in your terminal
+👌 Get links from [Linknest](https://linknest.cc) to your terminal
 
-![](https://cloud.githubusercontent.com/assets/307676/19015891/64e7bc2e-880d-11e6-9b11-081dfe5f2555.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/307676/19020824/5f1d6c0c-88b3-11e6-9e03-4c964ab3b568.png)
 
 ### Install
 
@@ -13,7 +13,9 @@ npm i -g linknest-cli
 ### Use
 
 ```bash
-linknest-cli
+linknest
 ```
 
-Type user/collection to get all links in collection
+And then just follow the instructions. Ex. Type ``urban/books`` to get all links in collection [Books](https://linknest.cc/urban/books/).
+
+💪 Protip: If you use iTerm you can cmd+click the urls!
