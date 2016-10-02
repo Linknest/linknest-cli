@@ -49,9 +49,9 @@
 21 silly publish   bin: { linknest: 'index.js' },
 21 silly publish   readme: '# Linknest cli\n\n👌 Get links from [Linknest](https://linknest.cc) to your terminal\n\n![Screenshot](https://cloud.githubusercontent.com/assets/307676/19020824/5f1d6c0c-88b3-11e6-9e03-4c964ab3b568.png)\n\n### Install\n\n```bash\nnpm i -g linknest-cli\n```\n\n### Use\n\n```bash\nlinknest\n```\n\nAnd then just follow the instructions. Ex. Type ``urban/books`` to get all links in collection [Books](https://linknest.cc/urban/books/).\n\n💪 Protip: If you use iTerm you can cmd+click the urls!\n',
 21 silly publish   readmeFilename: 'readme.md',
-21 silly publish   gitHead: '6405ac00e82c226b6f1880f4fab6dabb684f56b3',
+21 silly publish   gitHead: '5543ef910f01f295118030452f000973070f97d8',
 21 silly publish   _id: 'linknest-cli@0.1.1',
-21 silly publish   _shasum: '8c3be3293c6fd8dfa997fd332309d92ff0ac9efd',
+21 silly publish   _shasum: '316c155f65a2ab7d70a0089ee0f49427ab295440',
 21 silly publish   _from: '.' }
 22 verbose getPublishConfig undefined
 23 silly mapToRegistry name linknest-cli
@@ -69,22 +69,22 @@
 29 silly publish uploading /Users/urbansanden/.npm/linknest-cli/0.1.1/package.tgz
 30 verbose request uri https://registry.npmjs.org/linknest-cli
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 15:20:54
+32 info attempt registry request try #1 at 15:23:17
 33 verbose request using bearer token for auth
-34 verbose request id 00cfaea54a94d06a
+34 verbose request id 92d8218c5daee1fb
 35 http request PUT https://registry.npmjs.org/linknest-cli
 36 http 403 https://registry.npmjs.org/linknest-cli
 37 verbose headers { 'content-type': 'application/json',
 37 verbose headers   'cache-control': 'max-age=300',
 37 verbose headers   'content-length': '95',
 37 verbose headers   'accept-ranges': 'bytes',
-37 verbose headers   date: 'Sun, 02 Oct 2016 13:20:55 GMT',
+37 verbose headers   date: 'Sun, 02 Oct 2016 13:23:18 GMT',
 37 verbose headers   via: '1.1 varnish',
 37 verbose headers   connection: 'keep-alive',
-37 verbose headers   'x-served-by': 'cache-bma7024-BMA',
+37 verbose headers   'x-served-by': 'cache-bma7026-BMA',
 37 verbose headers   'x-cache': 'MISS',
 37 verbose headers   'x-cache-hits': '0',
-37 verbose headers   'x-timer': 'S1475414454.297094,VS0,VE957',
+37 verbose headers   'x-timer': 'S1475414597.586238,VS0,VE962',
 37 verbose headers   vary: 'Accept-Encoding' }
 38 verbose request invalidating /Users/urbansanden/.npm/registry.npmjs.org/linknest-cli on PUT
 39 error publish Failed PUT 403
