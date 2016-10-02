@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const rp = require('request-promise');
 const carrier = require("carrier");
 const clear = require("cli-clear");
