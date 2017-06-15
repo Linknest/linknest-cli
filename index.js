@@ -16,7 +16,7 @@ process.stdin.resume();
 carrier.carry(process.stdin, function(line) {
 
   collection.title = String(line).split('/')[1];
-  collection.url = `https://linknest.cc/${line}`;
+  collection.url = `https://linknest.com/${line}`;
 
   var options = {
       uri: collection.url+'/json/',
