@@ -2,7 +2,7 @@
 
 👌 Get links from [Linknest](https://linknest.com) to your terminal
 
-![Screenshot](https://cloud.githubusercontent.com/assets/307676/19020824/5f1d6c0c-88b3-11e6-9e03-4c964ab3b568.png)
+![Screenshot](https://res.cloudinary.com/urre/image/upload/v1503344183/gohxr1sjx7wtvmzlnzal.png)
 
 ### Install
 

@@ -3,7 +3,9 @@
 	"version": "0.1.6",
 	"description": "Get links from https://linknest.com",
 	"main": "index.js",
-	"keywords": ["linknest, bookmarks"],
+	"keywords": [
+		"linknest, bookmarks"
+	],
 	"author": "Urban Sanden <hej@urre.me>",
 	"scripts": {
 		"start": "node index.js"
