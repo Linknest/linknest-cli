@@ -1,8 +1,8 @@
 # Linknest cli
 
-👌 Get links from [Linknest](https://linknest.com) to your terminal
+Get links from [Linknest](https://linknest.com) to your terminal
 
-![Screenshot](https://res.cloudinary.com/urre/image/upload/v1503344183/gohxr1sjx7wtvmzlnzal.png)
+![Screenshot](https://res.cloudinary.com/urre/image/upload/v1582816925/screenshots/ayvygeare7waklqk5nyc.jpg)
 
 ### Install
 
@@ -16,6 +16,6 @@ npm i -g linknest-cli
 linknest
 ```
 
-And then just follow the instructions. Ex. Type ``urban/books`` to get all links in collection [Books](https://linknest.com/urban/books/).
 
-💪 Protip: If you use iTerm you can cmd+click the urls!
+
+And then just follow the instructions. Ex. Type ``urban/books`` to get all links in collection [Books](https://linknest.com/urban/books/).
